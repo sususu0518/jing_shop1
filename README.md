@@ -1,14 +1,16 @@
 # 晶酱蔬菜商城
 
-蔬菜商城是我自己利用业余时间编写的一个项目，用户在商场选购蔬菜下单。
+蔬菜商城是我自己利用业余时间编写的一个项目，用户在商场选购蔬菜下单。可以在网页留言、浏览文章。
+后台管理员可以查看订单、上架蔬菜、查看用户留言、发布文章等。
 
+[演示地址](https://www.bilibili.com/video/BV1S54y1g7nz/?vd_source=e2ed3f9482b5241893eb7f047a9702f1)
+https://www.bilibili.com/video/BV1S54y1g7nz/?vd_source=e2ed3f9482b5241893eb7f047a9702f1
 
 #### 采用的技术
-
-1. springboot
-2. freemarker
-3. mybatis-plus
-4. mysql8
+1. Springboot、Redis
+2. Freemarker、Layui、Echarts
+3. Mybatis-plus
+4. Mysql8
 
 #### 模块
 | 模块  | 备注           |
