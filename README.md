@@ -2,7 +2,6 @@
 
 蔬菜商城是我自己利用业余时间编写的一个项目，用户在商场选购蔬菜下单。
 
-演示地址：https://www.bilibili.com/video/BV1Mv4y147ir/?spm_id_from=333.999.0.0
 
 #### 采用的技术
 
@@ -19,25 +18,23 @@
 | 文章  | 文章阅读         |
 | 留言板 | 客户留言         |
 | 商城  | 搜索页          |
-
+| 后台管理  | 报表、留言、蔬菜管理          |
 
 #### 另外商城数据采用爬虫抓取清洗入库
 数据采集比较麻烦我也是偷懒，pyhton抓取数据清洗到数据库
 [Python抓蔬菜数据到数据库](https://www.toutiao.com/article/7195757474467676683/)
 
-## 商城截图
-#### 前端
-![输入图片说明](src/main/resources/static/images/4f304ccb3fc0ea6b3190d2e2651342ba.png)
-![输入图片说明](src/main/resources/static/images/WechatIMG14060.png)
-![输入图片说明](src/main/resources/static/images/1e8040c6342f3239e486ad2ed45d6c6e.png)
-![输入图片说明](src/main/resources/static/images/cb73149e6cdaf68cc228fe1dc181effe.png)
-![输入图片说明](src/main/resources/static/images/403a1e7d66e32886165048348e7a82b2.png)
-![输入图片说明](src/main/resources/static/images/f8d13a0b95629e7a0d5e1e56156f75dd.png)
+## 系统截图
+![输入图片说明](src/main/resources/static/images/fd81fb427ef20063af92b256bd180bc2.png)
+![输入图片说明](src/main/resources/static/images/22e604965ea80490b22f87182695c1fa.png)
+![输入图片说明](src/main/resources/static/images/6a268fa446ab13f7f57d9dc1ab7916c6.png)
+![输入图片说明](src/main/resources/static/images/9d25806c75817ffce8c4c29dfddb30a1.png)
+![输入图片说明](src/main/resources/static/images/33a40b9a3715551935e6661409a75a0c.png)
 
-#### 后台管理系统
-![输入图片说明](src/main/resources/static/images/5ac9ad876c6578c2f5bc7c13ef5df48e.png)
-![输入图片说明](src/main/resources/static/images/696ce38d1b06e090c8c34da0253c90e1.png)
-![输入图片说明](src/main/resources/static/images/2058d080f75dea75e3567dafe8c4014a.png)
+![输入图片说明](src/main/resources/static/images/0148277006ce98081aeb64e48aa147cf.png)
+![输入图片说明](src/main/resources/static/images/92c76c6836520bdf978933daf7a04376.png)
+![输入图片说明](src/main/resources/static/images/5317a6d80faf3aa0f3f89185580c7b71.png)
+![输入图片说明](src/main/resources/static/images/577644adb8f934c97afccc169e223727.png)
 
 [后台系统用到的开源项目](https://gitee.com/wanglingxiao/mysiteforme)
 > 全自动生成代码，搬砖神器，从此把项目经理踩在脚下
