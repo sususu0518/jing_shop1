@@ -1,7 +1,7 @@
 # 晶酱蔬菜商城
 
 蔬菜商城是我自己利用业余时间编写的一个项目，用户在商场选购蔬菜下单。可以在网页留言、浏览文章。
-后台管理员可以查看订单、上架蔬菜、查看用户留言、发布文章等。
+后台管理员可以查看订单、上架蔬菜、查看用户留言、发布文章等。另外还接入了支付宝沙箱支付，模拟付款。
 
 [演示地址](https://www.bilibili.com/video/BV1S54y1g7nz/?vd_source=e2ed3f9482b5241893eb7f047a9702f1)
 
@@ -31,6 +31,7 @@ https://www.bilibili.com/video/BV1S54y1g7nz/?vd_source=e2ed3f9482b5241893eb7f047
 ## 系统截图
 ![输入图片说明](src/main/resources/static/images/fd81fb427ef20063af92b256bd180bc2.png)
 ![输入图片说明](src/main/resources/static/images/22e604965ea80490b22f87182695c1fa.png)
+![输入图片说明](src/main/resources/static/image.png)
 ![输入图片说明](src/main/resources/static/images/6a268fa446ab13f7f57d9dc1ab7916c6.png)
 ![输入图片说明](src/main/resources/static/images/9d25806c75817ffce8c4c29dfddb30a1.png)
 ![输入图片说明](src/main/resources/static/images/33a40b9a3715551935e6661409a75a0c.png)
