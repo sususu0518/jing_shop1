@@ -1,7 +1,9 @@
 # 晶酱蔬菜商城
 
-蔬菜商城是我自己利用业余时间编写的一个项目，用户在商场选购蔬菜下单。可以在网页留言、浏览文章。
+> 蔬菜商城是我自己利用业余时间编写的一个项目，用户在商场选购蔬菜下单。可以在网页留言、浏览文章。
 后台管理员可以查看订单、上架蔬菜、查看用户留言、发布文章等。另外还接入了支付宝沙箱支付，模拟付款。
+
+> 后台管理系统可以一键生成代码和页面，帮你更快完成任务。
 
 
 ## 更新日志
@@ -48,6 +50,7 @@ https://www.bilibili.com/video/BV1S54y1g7nz/?vd_source=e2ed3f9482b5241893eb7f047
 ![输入图片说明](src/main/resources/static/images/92c76c6836520bdf978933daf7a04376.png)
 ![输入图片说明](src/main/resources/static/images/5317a6d80faf3aa0f3f89185580c7b71.png)
 ![输入图片说明](src/main/resources/static/images/577644adb8f934c97afccc169e223727.png)
+![输入图片说明](src/main/resources/static/images/image.png)
 
 [后台系统用到的开源项目](https://gitee.com/wanglingxiao/mysiteforme)
 > 全自动生成代码，搬砖神器，从此把项目经理踩在脚下
