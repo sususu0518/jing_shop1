@@ -29,6 +29,7 @@ https://www.bilibili.com/video/BV1S54y1g7nz/?vd_source=e2ed3f9482b5241893eb7f047
 |-----|--------------|
 | 首页  | 二级分类、热销蔬菜、文章 |
 | 我的  | 订单、住址        |
+| 购物车  | 支付宝沙箱        |
 | 文章  | 文章阅读         |
 | 留言板 | 客户留言         |
 | 商城  | 搜索页          |
@@ -41,6 +42,7 @@ https://www.bilibili.com/video/BV1S54y1g7nz/?vd_source=e2ed3f9482b5241893eb7f047
 ## 系统截图
 ![输入图片说明](https://s1.ax1x.com/2023/03/02/ppFuvaq.png)
 ![输入图片说明](src/main/resources/static/a7bf4d302f46c2cbf0de53932914eb79.png)
+![输入图片说明](https://s1.ax1x.com/2023/03/02/ppFKiM4.png)
 ![输入图片说明](src/main/resources/static/images/6a268fa446ab13f7f57d9dc1ab7916c6.png)
 ![输入图片说明](src/main/resources/static/images/9d25806c75817ffce8c4c29dfddb30a1.png)
 ![输入图片说明](src/main/resources/static/images/33a40b9a3715551935e6661409a75a0c.png)
