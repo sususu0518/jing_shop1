@@ -39,6 +39,7 @@ https://www.bilibili.com/video/BV1S54y1g7nz/?vd_source=e2ed3f9482b5241893eb7f047
 [Python抓蔬菜数据到数据库](https://www.toutiao.com/article/7195757474467676683/)
 
 ## 系统截图
+![输入图片说明](src/main/resources/static/a7bf4d302f46c2cbf0de53932914eb79.png)
 ![输入图片说明](src/main/resources/static/images/fd81fb427ef20063af92b256bd180bc2.png)
 ![输入图片说明](src/main/resources/static/images/22e604965ea80490b22f87182695c1fa.png)
 ![输入图片说明](src/main/resources/static/image.png)
